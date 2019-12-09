@@ -3,13 +3,14 @@
     font-size: 13px;
 }
 #apps-btn {
-    height: 1px;
-    width: 1px;
+    height: 37px;
+    width: 10px;
     background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
-    background-position: -138px -45px;
-    margin-top: 15px;
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    margin-top: 8px;
     opacity: .55;
-    padding-right: 8px;
+    padding-right: 5px;
 }
 
 
